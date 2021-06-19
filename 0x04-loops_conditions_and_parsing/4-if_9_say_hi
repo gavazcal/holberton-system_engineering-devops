@@ -2,7 +2,7 @@
 #prints hi
 
 i=0
-while [ "$i" -lt 11 ]; do
+while [ "$i" -lt 10 ]; do
 	echo "Holberton School"
 	if [ "$i" -eq 8 ]
 	then
