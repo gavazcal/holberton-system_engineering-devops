@@ -1,0 +1,5 @@
+#!/bin/env bash
+#prints a string 10 times
+for _ in {1..10}; do
+	echo "Holberton School"
+done
