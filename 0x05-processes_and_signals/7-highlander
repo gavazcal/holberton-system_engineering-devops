@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# displays a line with sleep 2 between each iteration
+trap "echo 'I am invincible!!!'" SIGTERM
+
+while true; do
+	echo "To infinity and beyond"
+	sleep do
+done
