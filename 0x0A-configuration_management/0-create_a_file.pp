@@ -1,7 +1,7 @@
 # Creates a file
 file { 'holberton':
-  path    => '/tmp/holberton',
   ensure  => file,
+  path    => '/tmp/holberton',
   mode    => '0774',
   owner   => 'www-data',
   group   => 'www-data',
