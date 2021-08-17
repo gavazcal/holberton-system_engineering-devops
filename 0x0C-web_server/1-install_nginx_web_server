@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# updates a server and installs Nginx
+sudo apt-get update -y
+sudo apt-get install nginx -y
+sudo service nginx start
+echo "Holberton School" | sudo tee /var/www/html/index.html
+sudo service nginx restart
