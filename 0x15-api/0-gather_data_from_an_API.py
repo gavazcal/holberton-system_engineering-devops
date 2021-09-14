@@ -10,8 +10,8 @@ from sys import argv
 if __name__ == "__main__":
     rest = 'https://jsonplaceholder.typicode.com/'
     user_id = int(argv[1])
-    name = requests.get(rest + '/users/{}'.format(user_id)).json()
-    user_to_do = requests.get(rest + '/todos?userId={}'.format(user_id)).json()
+    name = requests.get(rest + 'users/{}'.format(user_id)).json()
+    user_to_do = requests.get(rest + 'todos?userId={}'.format(user_id)).json()
 
     done_tasks = []
 
