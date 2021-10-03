@@ -1,5 +1,5 @@
 # POSTMORTEM: WannaCry Ransomware attack of 2017
-![wannacry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#/media/File:Wana_Decrypt0r_screenshot.png)
+![wannacry](https://mybroadband.co.za/news/wp-content/uploads/2017/05/WannaCry.jpg)
 
 ## Issue Summary
 **Origin**
