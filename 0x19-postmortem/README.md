@@ -35,5 +35,7 @@ The attacks impact was limited thanks to the quick discovery of the killswitch b
 
 ## Corrective and Preventative Measures
 The day after the attack Windows released out-of-band security updates for their end of life products such as Windows XP, Windows Server 2003 and Windows 8.
-Organizations were instructed to patch Windows and plug the vulnerability. Over the next few days new killswitches were developed and distributed, as well as beefing up the security of the site hosting the killswitch domain. Within four days of the initial outbreak new infections had slowed down to a trickle.
+Organizations were instructed to patch Windows and plug the vulnerability. 
+Over the next few days new killswitches were developed and distributed, as well as beefing up the security of the site hosting the killswitch domain. Within four days of the initial outbreak new infections had slowed down to a trickle.
+The attack is considered of relatively low impact compared to the chaos that would ensue if it would've been allowed to spread to critical infrastructure like nuclear power plants, dams or railway systems.
 
