@@ -19,6 +19,7 @@ In less that 24h it is estimated that around 200,000 computers across 150 countr
 ## Root Cause and Resolution
 
 **Root Cause**
+
 The United States National Security Agency had created a software known as "EternalBlue" which was designed to exploit older Windows OS. The hackers gained access to this when a group called "The Shadow Brokers" stole and distributed EternalBlue. The hackers then took this technology and built a botnet that could operate within it. The attack targetted computers running legacy systems that had not received security updates.
 
 **Attack**
